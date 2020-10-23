@@ -35,6 +35,7 @@
 - [x] Login e Logout
 - [x] Cadastro de Usuário
 - [x] Listagem do Usuário
+- [x] Reset de Senha
 - [x] Atualização de Perfil do Usuário
 - [x] Listagem de Prestadores de Serviço
 - [x] Realizar agendamento
