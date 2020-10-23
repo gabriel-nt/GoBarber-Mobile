@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gabriel-nt/GoBarber-Frontend/blob/master/src/assets/logo.svg" alt="GoBarber" />
+  <img src="https://github.com/gabriel-nt/GoBarber-Mobile/blob/master/assets/images/logo.svg" alt="GoBarber" />
 </p>
 
 <h1 align="center">
@@ -35,6 +35,7 @@
 - [x] Login e Logout
 - [x] Cadastro de Usuário
 - [x] Listagem do Usuário
+- [x] Reset de Senha
 - [x] Atualização de Perfil do Usuário
 - [x] Listagem de Prestadores de Serviço
 - [x] Realizar agendamento
