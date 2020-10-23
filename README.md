@@ -29,6 +29,7 @@
 </h3>
 
 ### 🖥 Demonstração
+<img src="https://github.com/gabriel-nt/GoBarber-Mobile/blob/master/assets/images/preview.gif" width="350"/>
 
 ### 📎 Features
 
